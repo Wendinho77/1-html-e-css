@@ -10,4 +10,4 @@ conhecimentos adquiridos:Estrutura básica, Semântica e Principais (tags,elemen
 
 
 
-<img src="1-html-e-css/bens/img/imagem.web.jpg"  />
+<img src="1-html-e-css/bens/img/imagem.web.jpg />
