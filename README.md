@@ -1,5 +1,3 @@
-## HTML e CSS
-
 Projeto desenvolvido no curso: "Introdução a criação de websites com HTML5 e CSS3" da Digital Innovation One. 
 
 
@@ -10,4 +8,4 @@ conhecimentos adquiridos:Estrutura básica, Semântica e Principais (tags,elemen
 
 
 
-<img src = ".assets/img/imagem.web.jpg"  >
+<img src="bens/img/imagem.web.jpg"  />
