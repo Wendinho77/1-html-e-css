@@ -9,5 +9,4 @@ conhecimentos adquiridos:Estrutura básica, Semântica e Principais (tags,elemen
 ## Image: 
 
 
-
-<img src="/bens/img/imagem.web.jpg"  />
+![Captura da Web_26-5-2022_161749_](https://user-images.githubusercontent.com/105667364/170570680-b7ff39db-e612-462c-8a4d-6c955cd878b3.jpeg)
